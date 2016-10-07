@@ -1,0 +1,27 @@
+{
+  "name": "tech-proto",
+  "version": "1.0.0",
+  "description": "fastangle Tech Prototype slackbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulsFA/tech-proto.git"
+  },
+  "keywords": [
+    "slackbot",
+    "bot",
+    "slack"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulsFA/tech-proto/issues"
+  },
+  "homepage": "https://github.com/paulsFA/tech-proto#readme",
+  "dependencies": {
+    "botkit": "~0.2.2"
+  }
+}

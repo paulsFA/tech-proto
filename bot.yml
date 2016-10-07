@@ -1,0 +1,23 @@
+name: fastangle
+description: Fastangle Tech Prototype Bot
+avatar: resources/avatar.png
+#background: resources/background.png
+#config:
+#  - name: OPTION
+#    friendly_name: Some Unnecessary Option
+#    info: This is an unnecessary option
+#    default: the default value
+#  - name: SECRET
+#    friendly_name: Shhhh
+#    info: This is an secret option
+#    type: secret
+#    default: not secret though
+#screenshots:
+#  - screenshot: resources/screenshot1.png
+#  - screenshot: resources/screenshot2.jpg
+config:
+  - name: WIT_KEY
+    friendly_name: Wit.ai Key
+    info: Enter the wit.ai key for the environment here.
+    type: secret
+    default:
